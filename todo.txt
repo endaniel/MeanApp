@@ -1,0 +1,4 @@
+*work with mongolab and entities
+*gulp watch
+*angular and client side
+*jasmine
