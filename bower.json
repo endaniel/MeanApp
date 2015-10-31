@@ -1,0 +1,23 @@
+{
+  "name": "MeanApp",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "DanielE <daniel6692@walla.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/endaniel/MeanApp",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
